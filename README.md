@@ -12,6 +12,6 @@ This is the unofficial Japanese translation of the [OWASP Top 10 Drone Security 
 * [OWASP Top 10 ドローンセキュリティリスク](Document/index.md)
 * [リーダー](Document/leaders.md)
 
-## Author (日本語訳)
+## Translator (Japanese)
 
 [Koki Takeyama](https://github.com/coky-t)
